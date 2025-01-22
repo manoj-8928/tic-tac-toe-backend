@@ -1,1 +1,1 @@
-# tic-tac-toe-backend
+This project is a backend system for a simple Tic-Tac-Toe game, built to demonstrate backend development skills. The system includes user management, authentication, game functionality, and game history tracking. It is implemented using Node.js and follows clean code principles with meaningful API responses and proper error handling.
